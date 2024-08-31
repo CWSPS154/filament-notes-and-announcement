@@ -1,5 +1,5 @@
 
-# Filament Gallery
+# Filament Notes and Announcement
 
 A filament plugin for save frontend customer notes and announcements
 
@@ -56,8 +56,6 @@ return [
 
 ## Screenshots
 
-![Frontend Menu Screenshot Widget](screenshorts/list.png)
+![Notes and Announcement](screenshorts/list.png)
 
-![Frontend Menu Screenshot Widget](screenshorts/create1.png)
-
-![Frontend Menu Screenshot Widget](screenshorts/create2.png)
+![Notes and Announcement](screenshorts/create.png)
