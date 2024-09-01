@@ -6,11 +6,12 @@
  */
 
 return [
-    'notes.and.announcement' => 'Notes and Announcement',
+    'notes.and.announcement' => 'Notes',
     'group' => 'Content',
     'status' => 'Status',
     'type' => 'Type',
     'notes' => 'Notes',
     'announcement' => 'Announcement',
     'body' => 'Note',
+    'create.button' => 'New Note',
 ];
